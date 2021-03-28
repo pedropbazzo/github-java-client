@@ -3,7 +3,7 @@
 ![lifecycle: beta](https://img.shields.io/badge/lifecycle-beta-509bf5.svg)
 ![Maven Central](https://img.shields.io/maven-central/v/com.spotify/github-client)
 
-
+ 
 # github-client
 
 A small Java library for talking to Github/Github Enterprise and interacting with projects.
